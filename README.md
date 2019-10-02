@@ -2,9 +2,9 @@
 
 :birthday:一个生日倒计时＋祝福的静态页面
 
-[演示]:(https://orangeshinee.github.io/happybirthday)
+[演示](https://orangeshinee.github.io/happybirthday)
 
-内容均来自于[codepen]https://codepen.io/上的开源项目
+内容均来自于[codepen](https://codepen.io/)上的开源项目
 
 分别是：
 
